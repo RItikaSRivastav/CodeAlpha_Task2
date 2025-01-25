@@ -2,7 +2,7 @@
 
 Welcome to the Image Gallery Android App . It is an amazing Android application that showcases beautiful art images from the Unsplash API. Using a range of powerful libraries and frameworks to build  app.
 
-# :building_construction: 
+# Technology:
 
 - **Jetpack Compose:** To build the User Interface
 - **Material 3:** To Design a beautiful and consistent UI.
